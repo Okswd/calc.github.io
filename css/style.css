@@ -1,0 +1,21 @@
+#display,
+button {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  border: 1px solid #b314db;
+  background: linear-gradient(
+    360deg,
+    #e2a4f8 0%,
+    rgba(226, 164, 248, 0) 132.95%
+  );
+  color: #a651bb;
+  border-radius: 3px;
+  width: 100px;
+  padding: 15px;
+  margin: 5px;
+}
+
+#display {
+  width: 411px;
+  text-align: right;
+}
